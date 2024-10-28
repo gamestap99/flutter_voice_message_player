@@ -1,3 +1,3 @@
-library voice_message_package;
+library flutter_voice_message_package;
 
 export 'src/voice_message.dart';
