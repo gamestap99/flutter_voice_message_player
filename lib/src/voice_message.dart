@@ -5,8 +5,8 @@ import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 // ignore: library_prefixes
 import 'package:just_audio/just_audio.dart' as jsAudio;
-import 'package:voice_message_package/src/contact_noises.dart';
-import 'package:voice_message_package/src/helpers/utils.dart';
+import 'package:flutter_voice_message_package/src/contact_noises.dart';
+import 'package:flutter_voice_message_package/src/helpers/utils.dart';
 
 import './helpers/widgets.dart';
 import './noises.dart';

@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
-import 'package:voice_message_package/src/helpers/utils.dart';
+import 'package:flutter_voice_message_package/src/helpers/utils.dart';
 
 /// document will be added
 class Noises extends StatelessWidget {
